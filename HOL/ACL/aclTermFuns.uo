@@ -1,0 +1,11 @@
+$(HOLDIR)/sigobj/HolKernel
+$(HOLDIR)/sigobj/Overlay
+$(HOLDIR)/sigobj/Parse
+$(HOLDIR)/sigobj/boolLib
+$(HOLDIR)/sigobj/bossLib
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclTermFuns
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclTermFuns
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclfoundationTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclrulesTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclsemanticsTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclTermFuns.sml

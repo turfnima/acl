@@ -1,0 +1,4 @@
+$(HOLDIR)/sigobj/Overlay
+$(HOLDIR)/sigobj/Term
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclTermFuns
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclTermFuns.sig

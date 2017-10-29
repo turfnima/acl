@@ -1,0 +1,107 @@
+\BOOKMARK [0][-]{chapter.1}{Access-Control Logic: Syntax and Semantics}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Syntax}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Semantics}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Inference Rules}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Confidentiality and Integrity Policies}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.5}{Examples}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.5.1}{A simple example}{section.1.5}% 7
+\BOOKMARK [2][-]{subsection.1.5.2}{An Integrity Example}{section.1.5}% 8
+\BOOKMARK [0][-]{chapter.2}{Access-Control Logic in HOL}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Implementation of the Access-Control Logic in HOL}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Access-Control Logic Inference Rules in HOL}{chapter.2}% 11
+\BOOKMARK [0][-]{chapter.3}{Integrity Example in HOL}{}% 12
+\BOOKMARK [1][-]{section.3.1}{Introducing the Integrity Levels in HOL}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.2}{Gas Example in HOL}{chapter.3}% 14
+\BOOKMARK [0][-]{Appendix.a.A}{Access-Control Logic Inference Rules in HOL}{}% 15
+\BOOKMARK [1][-]{section.a.A.1}{ACL\137ASSUM}{Appendix.a.A}% 16
+\BOOKMARK [1][-]{section.a.A.2}{ACL\137ASSUM2}{Appendix.a.A}% 17
+\BOOKMARK [1][-]{section.a.A.3}{ACL\137CONJ}{Appendix.a.A}% 18
+\BOOKMARK [1][-]{section.a.A.4}{ACL\137DISJ1}{Appendix.a.A}% 19
+\BOOKMARK [1][-]{section.a.A.5}{ACL\137DISJ2}{Appendix.a.A}% 20
+\BOOKMARK [1][-]{section.a.A.6}{ACL\137DN}{Appendix.a.A}% 21
+\BOOKMARK [1][-]{section.a.A.7}{ACL\137MP}{Appendix.a.A}% 22
+\BOOKMARK [1][-]{section.a.A.8}{ACL\137MT}{Appendix.a.A}% 23
+\BOOKMARK [1][-]{section.a.A.9}{ACL\137SIMP1}{Appendix.a.A}% 24
+\BOOKMARK [1][-]{section.a.A.10}{ACL\137SIMP2}{Appendix.a.A}% 25
+\BOOKMARK [1][-]{section.a.A.11}{ACL\137TAUT}{Appendix.a.A}% 26
+\BOOKMARK [1][-]{section.a.A.12}{ACL\137TAUT\137TAC}{Appendix.a.A}% 27
+\BOOKMARK [1][-]{section.a.A.13}{AND\137SAYS\137RL}{Appendix.a.A}% 28
+\BOOKMARK [1][-]{section.a.A.14}{AND\137SAYS\137LR}{Appendix.a.A}% 29
+\BOOKMARK [1][-]{section.a.A.15}{CONTROLS}{Appendix.a.A}% 30
+\BOOKMARK [1][-]{section.a.A.16}{DC}{Appendix.a.A}% 31
+\BOOKMARK [1][-]{section.a.A.17}{DOMI\137TRANS}{Appendix.a.A}% 32
+\BOOKMARK [1][-]{section.a.A.18}{DOMS\137TRANS}{Appendix.a.A}% 33
+\BOOKMARK [1][-]{section.a.A.19}{EQF\137ANDF1}{Appendix.a.A}% 34
+\BOOKMARK [1][-]{section.a.A.20}{EQF\137ANDF2}{Appendix.a.A}% 35
+\BOOKMARK [1][-]{section.a.A.21}{EQF\137CONTROLS}{Appendix.a.A}% 36
+\BOOKMARK [1][-]{section.a.A.22}{EQF\137EQF1}{Appendix.a.A}% 37
+\BOOKMARK [1][-]{section.a.A.23}{EQF\137EQF2}{Appendix.a.A}% 38
+\BOOKMARK [1][-]{section.a.A.24}{EQF\137IMPF1}{Appendix.a.A}% 39
+\BOOKMARK [1][-]{section.a.A.25}{EQF\137IMPF2}{Appendix.a.A}% 40
+\BOOKMARK [1][-]{section.a.A.26}{EQF\137NOTF}{Appendix.a.A}% 41
+\BOOKMARK [1][-]{section.a.A.27}{EQF\137ORF1}{Appendix.a.A}% 42
+\BOOKMARK [1][-]{section.a.A.28}{EQF\137ORF2}{Appendix.a.A}% 43
+\BOOKMARK [1][-]{section.a.A.29}{EQF\137REPS}{Appendix.a.A}% 44
+\BOOKMARK [1][-]{section.a.A.30}{EQF\137SAYS}{Appendix.a.A}% 45
+\BOOKMARK [1][-]{section.a.A.31}{EQN\137EQN}{Appendix.a.A}% 46
+\BOOKMARK [1][-]{section.a.A.32}{EQN\137LT}{Appendix.a.A}% 47
+\BOOKMARK [1][-]{section.a.A.33}{EQN\137LTE}{Appendix.a.A}% 48
+\BOOKMARK [1][-]{section.a.A.34}{HS}{Appendix.a.A}% 49
+\BOOKMARK [1][-]{section.a.A.35}{IDEMP\137SPEAKS\137FOR}{Appendix.a.A}% 50
+\BOOKMARK [1][-]{section.a.A.36}{IL\137DOMI}{Appendix.a.A}% 51
+\BOOKMARK [1][-]{section.a.A.37}{MONO\137SPEAKS\137FOR}{Appendix.a.A}% 52
+\BOOKMARK [1][-]{section.a.A.38}{MP\137SAYS}{Appendix.a.A}% 53
+\BOOKMARK [1][-]{section.a.A.39}{QUOTING\137LR}{Appendix.a.A}% 54
+\BOOKMARK [1][-]{section.a.A.40}{QUOTING\137RL}{Appendix.a.A}% 55
+\BOOKMARK [1][-]{section.a.A.41}{REPS}{Appendix.a.A}% 56
+\BOOKMARK [1][-]{section.a.A.42}{REP\137SAYS}{Appendix.a.A}% 57
+\BOOKMARK [1][-]{section.a.A.43}{SAYS}{Appendix.a.A}% 58
+\BOOKMARK [1][-]{section.a.A.44}{SAYS\137SIMP1}{Appendix.a.A}% 59
+\BOOKMARK [1][-]{section.a.A.45}{SAYS\137SIMP2}{Appendix.a.A}% 60
+\BOOKMARK [1][-]{section.a.A.46}{SL\137DOMS}{Appendix.a.A}% 61
+\BOOKMARK [1][-]{section.a.A.47}{SPEAKS\137FOR}{Appendix.a.A}% 62
+\BOOKMARK [1][-]{section.a.A.48}{TRANS\137SPEAKS\137FOR}{Appendix.a.A}% 63
+\BOOKMARK [0][-]{Appendix.a.B}{Access-Control Logic Tactics in HOL}{}% 64
+\BOOKMARK [1][-]{section.a.B.1}{ACL\137CONJ\137TAC}{Appendix.a.B}% 65
+\BOOKMARK [1][-]{section.a.B.2}{ACL\137DISJ1\137TAC}{Appendix.a.B}% 66
+\BOOKMARK [1][-]{section.a.B.3}{ACL\137DISJ2\137TAC}{Appendix.a.B}% 67
+\BOOKMARK [1][-]{section.a.B.4}{ACL\137MP\137TAC}{Appendix.a.B}% 68
+\BOOKMARK [1][-]{section.a.B.5}{ACL\137AND\137SAYS\137RL\137TAC}{Appendix.a.B}% 69
+\BOOKMARK [1][-]{section.a.B.6}{ACL\137AND\137SAYS\137LR\137TAC}{Appendix.a.B}% 70
+\BOOKMARK [1][-]{section.a.B.7}{ACL\137CONTROLS\137TAC}{Appendix.a.B}% 71
+\BOOKMARK [1][-]{section.a.B.8}{ACL\137DC\137TAC}{Appendix.a.B}% 72
+\BOOKMARK [1][-]{section.a.B.9}{ACL\137DOMI\137TRANS\137TAC}{Appendix.a.B}% 73
+\BOOKMARK [1][-]{section.a.B.10}{ACL\137DOMS\137TRANS\137TAC}{Appendix.a.B}% 74
+\BOOKMARK [1][-]{section.a.B.11}{ACL\137HS\137TAC}{Appendix.a.B}% 75
+\BOOKMARK [1][-]{section.a.B.12}{ACL\137IDEMP\137SPEAKS\137FOR\137TAC}{Appendix.a.B}% 76
+\BOOKMARK [1][-]{section.a.B.13}{ACL\137IL\137DOMI\137TAC}{Appendix.a.B}% 77
+\BOOKMARK [1][-]{section.a.B.14}{ACL\137MONO\137SPEAKS\137FOR\137TAC}{Appendix.a.B}% 78
+\BOOKMARK [1][-]{section.a.B.15}{ACL\137MP\137SAYS\137TAC}{Appendix.a.B}% 79
+\BOOKMARK [1][-]{section.a.B.16}{ACL\137QUOTING\137LR\137TAC}{Appendix.a.B}% 80
+\BOOKMARK [1][-]{section.a.B.17}{ACL\137QUOTING\137RL\137TAC}{Appendix.a.B}% 81
+\BOOKMARK [1][-]{section.a.B.18}{ACL\137REPS\137TAC}{Appendix.a.B}% 82
+\BOOKMARK [1][-]{section.a.B.19}{ACL\137REP\137SAYS\137TAC}{Appendix.a.B}% 83
+\BOOKMARK [1][-]{section.a.B.20}{ACL\137SAYS\137TAC}{Appendix.a.B}% 84
+\BOOKMARK [0][-]{Appendix.a.C}{Access-Control Logic Theories in HOL}{}% 85
+\BOOKMARK [1][-]{section.a.C.1}{aclfoundation Theory}{Appendix.a.C}% 86
+\BOOKMARK [2][-]{subsection.a.C.1.1}{Datatypes}{section.a.C.1}% 87
+\BOOKMARK [2][-]{subsection.a.C.1.2}{Definitions}{section.a.C.1}% 88
+\BOOKMARK [2][-]{subsection.a.C.1.3}{Theorems}{section.a.C.1}% 89
+\BOOKMARK [1][-]{section.a.C.2}{aclsemantics Theory}{Appendix.a.C}% 90
+\BOOKMARK [2][-]{subsection.a.C.2.1}{Definitions}{section.a.C.2}% 91
+\BOOKMARK [2][-]{subsection.a.C.2.2}{Theorems}{section.a.C.2}% 92
+\BOOKMARK [1][-]{section.a.C.3}{aclrules Theory}{Appendix.a.C}% 93
+\BOOKMARK [2][-]{subsection.a.C.3.1}{Definitions}{section.a.C.3}% 94
+\BOOKMARK [2][-]{subsection.a.C.3.2}{Theorems}{section.a.C.3}% 95
+\BOOKMARK [1][-]{section.a.C.4}{aclDrules Theory}{Appendix.a.C}% 96
+\BOOKMARK [2][-]{subsection.a.C.4.1}{Theorems}{section.a.C.4}% 97
+\BOOKMARK [0][-]{Appendix.a.D}{Access-Control Logic Source Files}{}% 98
+\BOOKMARK [1][-]{section.a.D.1}{aclfoundation Theory}{Appendix.a.D}% 99
+\BOOKMARK [1][-]{section.a.D.2}{aclsemantics Theory}{Appendix.a.D}% 100
+\BOOKMARK [1][-]{section.a.D.3}{aclrules Theory}{Appendix.a.D}% 101
+\BOOKMARK [1][-]{section.a.D.4}{aclDrules Theory}{Appendix.a.D}% 102
+\BOOKMARK [1][-]{section.a.D.5}{aclinfRules.sml}{Appendix.a.D}% 103
+\BOOKMARK [1][-]{section.a.D.6}{acl\137infRules.sig}{Appendix.a.D}% 104
+\BOOKMARK [1][-]{section.a.D.7}{ante\137allTacs.sml}{Appendix.a.D}% 105
+\BOOKMARK [1][-]{section.a.D.8}{ante\137allTacs.sig}{Appendix.a.D}% 106
+\BOOKMARK [0][-]{lstnumber.-22.83}{Bibliography}{}% 107

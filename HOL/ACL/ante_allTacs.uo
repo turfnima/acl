@@ -1,0 +1,14 @@
+$(HOLDIR)/sigobj/Cond_rewrite
+$(HOLDIR)/sigobj/HolKernel
+$(HOLDIR)/sigobj/Overlay
+$(HOLDIR)/sigobj/Parse
+$(HOLDIR)/sigobj/Rsyntax
+$(HOLDIR)/sigobj/boolLib
+$(HOLDIR)/sigobj/pairLib
+$(HOLDIR)/sigobj/pairTheory
+$(HOLDIR)/sigobj/pred_setTheory
+$(HOLDIR)/sigobj/res_quanLib
+$(HOLDIR)/sigobj/res_quanTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/ante_allTacs
+/home/csbd/Documents/RESEARCH/HOL/ACL/ante_allTacs
+/home/csbd/Documents/RESEARCH/HOL/ACL/ante_allTacs.sml

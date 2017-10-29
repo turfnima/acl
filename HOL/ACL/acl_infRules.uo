@@ -1,0 +1,17 @@
+$(HOLDIR)/sigobj/HolKernel
+$(HOLDIR)/sigobj/Overlay
+$(HOLDIR)/sigobj/Parse
+$(HOLDIR)/sigobj/boolLib
+$(HOLDIR)/sigobj/bossLib
+$(HOLDIR)/sigobj/pred_setLib
+$(HOLDIR)/sigobj/pred_setSyntax
+$(HOLDIR)/sigobj/pred_setTheory
+$(HOLDIR)/sigobj/relationTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclDrulesTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclTermFuns
+/home/csbd/Documents/RESEARCH/HOL/ACL/acl_infRules
+/home/csbd/Documents/RESEARCH/HOL/ACL/acl_infRules
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclfoundationTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclrulesTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/aclsemanticsTheory
+/home/csbd/Documents/RESEARCH/HOL/ACL/acl_infRules.sml

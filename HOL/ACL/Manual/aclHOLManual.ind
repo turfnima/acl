@@ -1,0 +1,326 @@
+\begin{theindex}
+
+  \item ACL\_AND\_SAYS\_LR\_TAC, \hyperpage{104}
+  \item {\tt  ACL\_AND\_SAYS\_LR\_TAC}, \hyperpage{104}
+  \item ACL\_AND\_SAYS\_RL\_TAC, \hyperpage{103}
+  \item {\tt  ACL\_AND\_SAYS\_RL\_TAC}, \hyperpage{103}
+  \item ACL\_ASSUM, \hyperpage{43}
+  \item {\tt  ACL\_ASSUM}, \hyperpage{43, 44}
+  \item ACL\_ASSUM2, \hyperpage{44}
+  \item ACL\_CONJ, \hyperpage{46}
+  \item {\tt  ACL\_CONJ}, \hyperpage{46}
+  \item ACL\_CONJ\_TAC, \hyperpage{97}
+  \item {\tt  ACL\_CONJ\_TAC}, \hyperpage{97}
+  \item ACL\_CONTROLS\_TAC, \hyperpage{106}
+  \item {\tt  ACL\_CONTROLS\_TAC}, \hyperpage{106}
+  \item ACL\_DC\_TAC, \hyperpage{108}
+  \item {\tt  ACL\_DC\_TAC}, \hyperpage{108}
+  \item ACL\_DISJ1, \hyperpage{47}
+  \item {\tt  ACL\_DISJ1}, \hyperpage{47}
+  \item ACL\_DISJ1\_TAC, \hyperpage{98}
+  \item {\tt  ACL\_DISJ1\_TAC}, \hyperpage{98}
+  \item ACL\_DISJ2, \hyperpage{48}
+  \item {\tt  ACL\_DISJ2}, \hyperpage{48}
+  \item ACL\_DISJ2\_TAC, \hyperpage{100}
+  \item {\tt  ACL\_DISJ2\_TAC}, \hyperpage{100}
+  \item ACL\_DN, \hyperpage{49}
+  \item {\tt  ACL\_DN}, \hyperpage{49}
+  \item ACL\_DOMI\_TRANS\_TAC, \hyperpage{109}
+  \item {\tt  ACL\_DOMI\_TRANS\_TAC}, \hyperpage{109}
+  \item ACL\_DOMS\_TRANS\_TAC, \hyperpage{111}
+  \item {\tt  ACL\_DOMS\_TRANS\_TAC}, \hyperpage{111}
+  \item ACL\_HS\_TAC, \hyperpage{113}
+  \item {\tt  ACL\_HS\_TAC}, \hyperpage{113}
+  \item ACL\_IDEMP\_SPEAKS\_FOR\_TAC, \hyperpage{115}
+  \item {\tt  ACL\_IDEMP\_SPEAKS\_FOR\_TAC}, \hyperpage{115}
+  \item ACL\_IL\_DOMI\_TAC, \hyperpage{116}
+  \item {\tt  ACL\_IL\_DOMI\_TAC}, \hyperpage{116}
+  \item ACL\_MONO\_SPEAKS\_FOR\_TAC, \hyperpage{118}
+  \item {\tt  ACL\_MONO\_SPEAKS\_FOR\_TAC}, \hyperpage{118}
+  \item ACL\_MP, \hyperpage{50}
+  \item {\tt  ACL\_MP}, \hyperpage{50}
+  \item ACL\_MP\_SAYS\_TAC, \hyperpage{120}
+  \item {\tt  ACL\_MP\_SAYS\_TAC}, \hyperpage{120}
+  \item ACL\_MP\_TAC, \hyperpage{101}
+  \item {\tt  ACL\_MP\_TAC}, \hyperpage{101}
+  \item ACL\_MT, \hyperpage{51}
+  \item {\tt  ACL\_MT}, \hyperpage{51}
+  \item ACL\_QUOTING\_LR\_TAC, \hyperpage{121}
+  \item {\tt  ACL\_QUOTING\_LR\_TAC}, \hyperpage{121}
+  \item ACL\_QUOTING\_RL\_TAC, \hyperpage{123}
+  \item {\tt  ACL\_QUOTING\_RL\_TAC}, \hyperpage{123}
+  \item ACL\_REP\_SAYS\_TAC, \hyperpage{126}
+  \item {\tt  ACL\_REP\_SAYS\_TAC}, \hyperpage{126}
+  \item ACL\_REPS\_TAC, \hyperpage{124}
+  \item {\tt  ACL\_REPS\_TAC}, \hyperpage{124}
+  \item ACL\_SAYS\_TAC, \hyperpage{128}
+  \item {\tt  ACL\_SAYS\_TAC}, \hyperpage{128}
+  \item ACL\_SIMP1, \hyperpage{52}
+  \item {\tt  ACL\_SIMP1}, \hyperpage{52}
+  \item ACL\_SIMP2, \hyperpage{53}
+  \item {\tt  ACL\_SIMP2}, \hyperpage{53}
+  \item ACL\_TAUT, \hyperpage{54}
+  \item {\tt  ACL\_TAUT}, \hyperpage{54}
+  \item ACL\_TAUT\_TAC, \hyperpage{55}
+  \item {\tt  ACL\_TAUT\_TAC}, \hyperpage{55}
+  \item \textbf  {aclDrules Theory}, \hyperpage{146}
+    \subitem Theorems, \hyperpage{146}
+      \subsubitem Conjunction, \hyperpage{146}
+      \subsubitem Controls, \hyperpage{146}
+      \subsubitem Derived_Controls, \hyperpage{146}
+      \subsubitem Derived_Speaks_For, \hyperpage{146}
+      \subsubitem Disjunction1, \hyperpage{146}
+      \subsubitem Disjunction2, \hyperpage{146}
+      \subsubitem Disjunctive_Syllogism, \hyperpage{146}
+      \subsubitem Double_Negation, \hyperpage{147}
+      \subsubitem eqn_eqn, \hyperpage{147}
+      \subsubitem eqn_lt, \hyperpage{147}
+      \subsubitem eqn_lte, \hyperpage{147}
+      \subsubitem Hypothetical_Syllogism, \hyperpage{147}
+      \subsubitem il_domi, \hyperpage{147}
+      \subsubitem INTER_EQ_UNIV, \hyperpage{147}
+      \subsubitem Modus_Tollens, \hyperpage{147}
+      \subsubitem Rep_Controls_Eq, \hyperpage{148}
+      \subsubitem Rep_Says, \hyperpage{148}
+      \subsubitem Reps, \hyperpage{148}
+      \subsubitem Says_Simplification1, \hyperpage{148}
+      \subsubitem Says_Simplification2, \hyperpage{148}
+      \subsubitem Simplification1, \hyperpage{148}
+      \subsubitem Simplification2, \hyperpage{148}
+      \subsubitem sl_doms, \hyperpage{148}
+  \item \textbf  {aclfoundation Theory}, \hyperpage{131}
+    \subitem Datatypes, \hyperpage{131}
+    \subitem Definitions, \hyperpage{132}
+      \subsubitem imapKS_def, \hyperpage{132}
+      \subsubitem intpKS_def, \hyperpage{132}
+      \subsubitem jKS_def, \hyperpage{132}
+      \subsubitem O1_def, \hyperpage{132}
+      \subsubitem one_weakorder_def, \hyperpage{132}
+      \subsubitem po_TY_DEF, \hyperpage{132}
+      \subsubitem po_tybij, \hyperpage{132}
+      \subsubitem prod_PO_def, \hyperpage{132}
+      \subsubitem smapKS_def, \hyperpage{132}
+      \subsubitem Subset_PO_def, \hyperpage{132}
+    \subitem Theorems, \hyperpage{133}
+      \subsubitem abs_po11, \hyperpage{133}
+      \subsubitem absPO_fn_onto, \hyperpage{133}
+      \subsubitem antisym_prod_antisym, \hyperpage{133}
+      \subsubitem EQ_WeakOrder, \hyperpage{133}
+      \subsubitem KS_bij, \hyperpage{133}
+      \subsubitem one_weakorder_WO, \hyperpage{133}
+      \subsubitem onto_po, \hyperpage{133}
+      \subsubitem po_bij, \hyperpage{133}
+      \subsubitem PO_repPO, \hyperpage{133}
+      \subsubitem refl_prod_refl, \hyperpage{133}
+      \subsubitem repPO_iPO_partial_order, \hyperpage{133}
+      \subsubitem repPO_O1, \hyperpage{133}
+      \subsubitem repPO_prod_PO, \hyperpage{134}
+      \subsubitem repPO_Subset_PO, \hyperpage{134}
+      \subsubitem RPROD_THM, \hyperpage{134}
+      \subsubitem SUBSET_WO, \hyperpage{134}
+      \subsubitem trans_prod_trans, \hyperpage{134}
+      \subsubitem WeakOrder_Exists, \hyperpage{134}
+      \subsubitem WO_prod_WO, \hyperpage{134}
+      \subsubitem WO_repPO, \hyperpage{134}
+  \item \textbf  {aclrules Theory}, \hyperpage{139}
+    \subitem Definitions, \hyperpage{139}
+      \subsubitem sat_def, \hyperpage{139}
+    \subitem Theorems, \hyperpage{139}
+      \subsubitem And_Says, \hyperpage{139}
+      \subsubitem And_Says_Eq, \hyperpage{139}
+      \subsubitem and_says_lemma, \hyperpage{140}
+      \subsubitem Controls_Eq, \hyperpage{140}
+      \subsubitem DIFF_UNIV_SUBSET, \hyperpage{140}
+      \subsubitem domi_antisymmetric, \hyperpage{140}
+      \subsubitem domi_reflexive, \hyperpage{140}
+      \subsubitem domi_transitive, \hyperpage{140}
+      \subsubitem doms_antisymmetric, \hyperpage{140}
+      \subsubitem doms_reflexive, \hyperpage{140}
+      \subsubitem doms_transitive, \hyperpage{140}
+      \subsubitem eqf_and_impf, \hyperpage{140}
+      \subsubitem eqf_andf1, \hyperpage{141}
+      \subsubitem eqf_andf2, \hyperpage{141}
+      \subsubitem eqf_controls, \hyperpage{141}
+      \subsubitem eqf_eq, \hyperpage{141}
+      \subsubitem eqf_eqf1, \hyperpage{141}
+      \subsubitem eqf_eqf2, \hyperpage{141}
+      \subsubitem eqf_impf1, \hyperpage{141}
+      \subsubitem eqf_impf2, \hyperpage{141}
+      \subsubitem eqf_notf, \hyperpage{142}
+      \subsubitem eqf_orf1, \hyperpage{142}
+      \subsubitem eqf_orf2, \hyperpage{142}
+      \subsubitem eqf_reps, \hyperpage{142}
+      \subsubitem eqf_sat, \hyperpage{142}
+      \subsubitem eqf_says, \hyperpage{142}
+      \subsubitem eqi_Eq, \hyperpage{142}
+      \subsubitem eqs_Eq, \hyperpage{142}
+      \subsubitem Idemp_Speaks_For, \hyperpage{143}
+      \subsubitem Image_cmp, \hyperpage{143}
+      \subsubitem Image_SUBSET, \hyperpage{143}
+      \subsubitem Image_UNION, \hyperpage{143}
+      \subsubitem INTER_EQ_UNIV, \hyperpage{143}
+      \subsubitem Modus_Ponens, \hyperpage{143}
+      \subsubitem Mono_speaks_for, \hyperpage{143}
+      \subsubitem MP_Says, \hyperpage{143}
+      \subsubitem Quoting, \hyperpage{143}
+      \subsubitem Quoting_Eq, \hyperpage{143}
+      \subsubitem reps_def_lemma, \hyperpage{143}
+      \subsubitem Reps_Eq, \hyperpage{144}
+      \subsubitem sat_allworld, \hyperpage{144}
+      \subsubitem sat_andf_eq_and_sat, \hyperpage{144}
+      \subsubitem sat_TT, \hyperpage{144}
+      \subsubitem Says, \hyperpage{144}
+      \subsubitem says_and_lemma, \hyperpage{144}
+      \subsubitem Speaks_For, \hyperpage{144}
+      \subsubitem speaks_for_SUBSET, \hyperpage{144}
+      \subsubitem SUBSET_Image_SUBSET, \hyperpage{144}
+      \subsubitem Trans_Speaks_For, \hyperpage{144}
+      \subsubitem UNIV_DIFF_SUBSET, \hyperpage{144}
+      \subsubitem world_and, \hyperpage{145}
+      \subsubitem world_eq, \hyperpage{145}
+      \subsubitem world_eqn, \hyperpage{145}
+      \subsubitem world_F, \hyperpage{145}
+      \subsubitem world_imp, \hyperpage{145}
+      \subsubitem world_lt, \hyperpage{145}
+      \subsubitem world_lte, \hyperpage{145}
+      \subsubitem world_not, \hyperpage{145}
+      \subsubitem world_or, \hyperpage{145}
+      \subsubitem world_says, \hyperpage{145}
+      \subsubitem world_T, \hyperpage{145}
+  \item \textbf  {aclsemantics Theory}, \hyperpage{134}
+    \subitem Definitions, \hyperpage{134}
+      \subsubitem Efn_def, \hyperpage{134}
+      \subsubitem Jext_def, \hyperpage{136}
+      \subsubitem Lifn_def, \hyperpage{136}
+      \subsubitem Lsfn_def, \hyperpage{136}
+    \subitem Theorems, \hyperpage{136}
+      \subsubitem andf_def, \hyperpage{136}
+      \subsubitem controls_def, \hyperpage{136}
+      \subsubitem controls_says, \hyperpage{136}
+      \subsubitem domi_def, \hyperpage{136}
+      \subsubitem doms_def, \hyperpage{137}
+      \subsubitem eqf_def, \hyperpage{137}
+      \subsubitem eqf_impf, \hyperpage{137}
+      \subsubitem eqi_def, \hyperpage{137}
+      \subsubitem eqi_domi, \hyperpage{137}
+      \subsubitem eqn_def, \hyperpage{137}
+      \subsubitem eqs_def, \hyperpage{137}
+      \subsubitem eqs_doms, \hyperpage{138}
+      \subsubitem FF_def, \hyperpage{138}
+      \subsubitem impf_def, \hyperpage{138}
+      \subsubitem lt_def, \hyperpage{138}
+      \subsubitem lte_def, \hyperpage{138}
+      \subsubitem meet_def, \hyperpage{138}
+      \subsubitem name_def, \hyperpage{138}
+      \subsubitem notf_def, \hyperpage{138}
+      \subsubitem orf_def, \hyperpage{138}
+      \subsubitem prop_def, \hyperpage{138}
+      \subsubitem quoting_def, \hyperpage{138}
+      \subsubitem reps_def, \hyperpage{139}
+      \subsubitem says_def, \hyperpage{139}
+      \subsubitem speaks_for_def, \hyperpage{139}
+      \subsubitem TT_def, \hyperpage{139}
+  \item AND\_SAYS\_LR, \hyperpage{57}
+  \item AND\_SAYS\_RL, \hyperpage{56}
+  \item {\tt  AND_SAYS_LR}, \hyperpage{57}
+  \item {\tt  AND_SAYS_RL}, \hyperpage{56}
+
+  \indexspace
+
+  \item CONTROLS, \hyperpage{58}
+  \item {\tt  CONTROLS}, \hyperpage{58}
+
+  \indexspace
+
+  \item DC, \hyperpage{59}
+  \item {\tt  DC}, \hyperpage{59}
+  \item DOMI\_TRANS, \hyperpage{60}
+  \item {\tt  DOMI_TRANS}, \hyperpage{60}
+  \item DOMS\_TRANS, \hyperpage{61}
+  \item {\tt  DOMS_TRANS}, \hyperpage{61}
+
+  \indexspace
+
+  \item EQF\_ANDF1, \hyperpage{62}
+  \item {\tt  EQF\_ANDF1}, \hyperpage{62}
+  \item EQF\_ANDF2, \hyperpage{63}
+  \item {\tt  EQF\_ANDF2}, \hyperpage{63}
+  \item EQF\_CONTROLS, \hyperpage{65}
+  \item {\tt  EQF\_CONTROLS}, \hyperpage{65}
+  \item EQF\_EQ, \hyperpage{66}
+  \item {\tt  EQF\_EQF1}, \hyperpage{66}
+  \item EQF\_EQF2, \hyperpage{67}
+  \item {\tt  EQF\_EQF2}, \hyperpage{67}
+  \item EQF\_IMPF1, \hyperpage{69}
+  \item {\tt  EQF\_IMPF1}, \hyperpage{69}
+  \item EQF\_IMPF2, \hyperpage{70}
+  \item {\tt  EQF\_IMPF2}, \hyperpage{70}
+  \item EQF\_NOTF, \hyperpage{71}
+  \item {\tt  EQF\_NOTF}, \hyperpage{71}
+  \item EQF\_ORF1, \hyperpage{72}
+  \item {\tt  EQF\_ORF1}, \hyperpage{72}
+  \item EQF\_ORF2, \hyperpage{73}
+  \item {\tt  EQF\_ORF2}, \hyperpage{73}
+  \item EQF\_REPS, \hyperpage{74}
+  \item {\tt  EQF\_REPS}, \hyperpage{74}
+  \item EQF\_SAYS, \hyperpage{75}
+  \item {\tt  EQF\_SAYS}, \hyperpage{75}
+  \item EQN\_EQN, \hyperpage{76}
+  \item {\tt  EQN\_EQN}, \hyperpage{76}
+  \item EQN\_LT, \hyperpage{77}
+  \item {\tt  EQN\_LT}, \hyperpage{77}
+  \item EQN\_LTE, \hyperpage{78}
+  \item {\tt  EQN\_LTE}, \hyperpage{78}
+
+  \indexspace
+
+  \item HS, \hyperpage{80}
+  \item {\tt  HS}, \hyperpage{80}
+
+  \indexspace
+
+  \item IDEMP\_SPEAKS\_FOR, \hyperpage{81}
+  \item {\tt  IDEMP_SPEAKS_FOR}, \hyperpage{81}
+  \item IL\_DOMI, \hyperpage{82}
+  \item {\tt  IL\_DOMI}, \hyperpage{82}
+
+  \indexspace
+
+  \item MONO\_SPEAKS\_FOR, \hyperpage{83}
+  \item {\tt  MONO\_SPEAKS\_FOR}, \hyperpage{83}
+  \item MP\_SAYS, \hyperpage{84}
+  \item {\tt  MP\_SAYS}, \hyperpage{84}
+
+  \indexspace
+
+  \item QUOTING\_LR, \hyperpage{85}
+  \item {\tt  QUOTING\_LR}, \hyperpage{85}
+  \item QUOTING\_RL, \hyperpage{86}
+  \item {\tt  QUOTING\_RL}, \hyperpage{86}
+
+  \indexspace
+
+  \item REP\_SAYS, \hyperpage{88}
+  \item {\tt  REP\_SAYS}, \hyperpage{88}
+  \item REPS, \hyperpage{87}
+  \item {\tt  REPS}, \hyperpage{87}
+
+  \indexspace
+
+  \item SAYS, \hyperpage{89}
+  \item {\tt  SAYS}, \hyperpage{89}
+  \item SAYS\_SIMP1, \hyperpage{90}
+  \item SAYS\_SIMP2, \hyperpage{91}
+  \item {\tt  SAYS_SIMP1}, \hyperpage{90}
+  \item {\tt  SAYS_SIMP2}, \hyperpage{91}
+  \item SL\_DOMS, \hyperpage{92}
+  \item {\tt  SL\_DOMS}, \hyperpage{92}
+  \item SPEAKS\_FOR, \hyperpage{93}
+  \item {\tt  SPEAKS_FOR}, \hyperpage{93}
+
+  \indexspace
+
+  \item TRANS\_SPEAKS\_FOR, \hyperpage{94}
+  \item {\tt  TRANS\_SPEAKS_FOR}, \hyperpage{94}
+
+\end{theindex}

@@ -1,0 +1,6 @@
+$(HOLDIR)/sigobj/Abbrev
+$(HOLDIR)/sigobj/Overlay
+$(HOLDIR)/sigobj/Term
+$(HOLDIR)/sigobj/Thm
+/home/csbd/Documents/RESEARCH/HOL/ACL/ante_allTacs
+/home/csbd/Documents/RESEARCH/HOL/ACL/ante_allTacs.sig
